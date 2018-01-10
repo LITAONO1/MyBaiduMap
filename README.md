@@ -8,3 +8,4 @@
     - 路线规划：RoutePlanSearch路线搜索做成了util，可在任何地方更方便集成路线规划功能，只需传入context和baidumap对象
     - 导航
 
+基于BaiduMapSDK V4.3.2(地图)，BaiduNaviSDK V3.3.1(导航)
