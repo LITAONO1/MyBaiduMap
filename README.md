@@ -9,3 +9,11 @@
     - 导航
 
 基于BaiduMapSDK V4.3.2(地图)，BaiduNaviSDK V3.3.1(导航)
+
+#### 使用说明：
+
+- 填好新的API_KEY(新建一个app，将包名和sha1填到百度地图开发者控制台，获取到API_KEY。在meta-data中填好)
+
+- app里新建MyApplication，调用BaiduMapSDK.init(this)初始化
+
+- 开始你的开发吧
